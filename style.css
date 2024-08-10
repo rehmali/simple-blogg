@@ -1,0 +1,83 @@
+/**********************
+******General Formatting 
+**************************/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #C9A37C;
+}
+
+.container {
+   
+    padding:20px 100px;
+    text-align: center;
+}
+/******
+***Top***
+********/
+
+.recent {
+    color:#fff;
+    text-align: center;
+    padding-top:20px;
+    font-weight: bold;
+}
+.top-world {
+    color:#5c55e1;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+
+/*************
+****Section***
+***************/
+.section{
+    width:33.33%;
+    text-align: center;
+    padding-top:10px;
+    border:2px solid #fff ;
+    float:left;
+}
+
+.image {
+    width:90%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.resize {
+    width:87%;
+}
+.date {
+    color:	#5c55e1;
+    margin-bottom:10px;
+    font-weight: bold;
+}
+
+.heading-section{
+    width:90%;
+    margin-left:20px;
+    text-align: center;
+    margin-bottom: 10px;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+
+.text-section{
+    width: 90%;
+    text-align: left;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    line-height: 20px;
+}
+.readmore{
+    color:#5c55e1;
+    font-weight: bold;
+}
